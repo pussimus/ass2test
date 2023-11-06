@@ -1,0 +1,10 @@
+timestamp=[2023-11-06 02:03:04], mode=WORKBENCH_START, duration=0:00:49.866, duration_ms=49866, data={}
+timestamp=[2023-11-06 02:03:07], mode=WORKBENCH_UI_INIT, duration=0:00:02.754, duration_ms=2754, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2023-11-06 02:03:35], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:26.521, duration_ms=26521, data={}
+timestamp=[2023-11-06 02:05:42], mode=APP_CREATION, duration=0:00:42.325, duration_ms=42325, data={name=testass2, project_type=sdk, os=standalone, processor=psu_cortexa53, runtime=cpp, platform=u96v2_sbc_mp4d, application_type=application}
+timestamp=[2023-11-06 02:11:17], mode=PLATFORM_GENERATION, duration=0:00:40.178, duration_ms=40178, data={name=u96v2_sbc_mp4d}
+timestamp=[2023-11-06 02:11:25], mode=BUILD, duration=0:00:00.641, duration_ms=641, data={name=testass2, configuration=Debug, clean_build=false}
+timestamp=[2023-11-06 02:11:26], mode=BUILD, duration=0:00:00.181, duration_ms=181, data={name=testass2_system, configuration=Emulation-SW, clean_build=false}
+timestamp=[2023-11-06 07:22:21], mode=WORKBENCH_START, duration=0:00:48.023, duration_ms=48023, data={}
+timestamp=[2023-11-06 07:22:25], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:02.198, duration_ms=2198, data={}
+timestamp=[2023-11-06 07:22:33], mode=WORKBENCH_UI_INIT, duration=0:00:11.913, duration_ms=11913, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=RemoteSystemsTempFiles,testass2,testass2_system,u96v2_sbc_mp4d}
