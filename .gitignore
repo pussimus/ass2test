@@ -10,6 +10,8 @@
 .Xil
 vivado*.str
 /target/
+
+
 .git_setup
 .vivado_setup
 .petalinux_setup
